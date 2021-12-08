@@ -13,6 +13,8 @@ The SleepQualityTracker app is an app that helps you collect information about y
  - Using Backing Properties to protect MutableLiveData
  - Observable state LiveData variables to trigger navigation
 
+You can run this Android app on Appetize.io <a href="https://appetize.io/app/0wau95d6kndrrcqednhz6042w8">here</a>.
+
 # Screenshots
 
 <div class="row">
