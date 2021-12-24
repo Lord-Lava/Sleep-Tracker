@@ -14,7 +14,7 @@ The SleepQualityTracker app is an app that helps you collect information about y
  - Observable state LiveData variables to trigger navigation
  - RecyclerView GridLayout with header
 
-You can run this Android app on Appetize.io <a href="https://appetize.io/app/0wau95d6kndrrcqednhz6042w8">here</a>.
+You can run this Android app on Appetize.io <a href="https://appetize.io/app/55cdbepudxe43my6g3k56vk68c">here</a>.
 
 # Screenshots - Latest version
 
